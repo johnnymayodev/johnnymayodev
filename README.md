@@ -4,11 +4,12 @@ Hi 👋 My name is Johnny Mayo
 Student Developer
 -----------------
 
-I've been learning to code since 2018 with Java. Since then I have learned so much and found a great interest for Web Development.
+I've been learning to code since 2018 starting with Java. Since then I have learned so much and found a great interest for Web Development.
 
 *   🌍  I'm based in New Jersey
 *   ✉️  You can contact me at [jmnaze123work@gmail.com](mailto:jmnaze123work@gmail.com)
 *   🧠  I'm learning my first JavaScript framework
+
 <a href="https://www.github.com/jmnaze123" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/jmnaze123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/jmnaze123" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/jmnaze123?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
