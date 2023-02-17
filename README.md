@@ -11,9 +11,7 @@ I've been learning to code since 2018 starting with Java. Since then I have lear
 *   🧠  I'm learning my first JavaScript framework
 
 <a href="https://www.github.com/johnnymayodev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/johnnymayodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/johnnymayodev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/johnnymayodev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                  src="https://img.shields.io/github/followers/johnnymayodev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
