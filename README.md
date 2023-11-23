@@ -22,6 +22,11 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnymayodev&theme=transparent&show_icons=true&locale=en&layout=compact" alt="johnnymayodev" />
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 - 🔭 I’m currently working on **my website**
 
 - 🌱 I’m currently learning **Svelte and Rust**
