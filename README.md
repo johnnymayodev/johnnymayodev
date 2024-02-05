@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Johnny</h1>
 
-## Stats
+## Stats and About Me
 
 <div align="left">
     <img src="https://komarev.com/ghpvc/?username=johnnymayodev&color=ff69b4"/>
@@ -8,26 +8,7 @@
     <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/johnnymayodev?color=ffcb30">
 </div>
 
-<br>
 
-<div align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=johnnymayodev&column=5&margin-w=15&margin-h=15&theme=gitdimmed&rank=-C" />
-    </a>
-</div>
-
-<br>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnnymayodev&theme=transparent&show_icons=true&locale=en&layout=compact" alt="johnnymayodev" />
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 - 🔭 I’m currently working on **my website**
 
