@@ -1,20 +1,12 @@
-<h1 align="left">Hi 👋, I'm Johnny</h1>
+# Hi 👋, I'm Johnny
 
-## Stats and About Me
-
-<div align="left">
-    <img src="https://komarev.com/ghpvc/?username=johnnymayodev&color=ff69b4"/>
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnnymayodev?color=30b5ff ">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/johnnymayodev?color=ffcb30">
-</div>
-
-
+## About Me
 
 - 🔭 I’m currently working on **my website**
 
-- 🌱 I’m currently learning **Svelte and Rust**
+- 🌱 I’m currently learning **Svelte**
 
-- 💻 Favorite language **Python & Javascript**
+- 💻 Favorite languages **Python & Javascript**
 
 - ⚡ Fun fact **my favorite car is 1990 BMW M3**
 
