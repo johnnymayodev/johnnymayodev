@@ -1,12 +1,4 @@
-# Hi, I'm Johnny 👋
-
-I am a Computer Science major at the [New Jersey Institute of Technology](https://www.njit.edu/). I enjoy developing web applications with HTML, CSS, JavaScript, and Python. I'm currently learning Svelte and Next.js. I'm also interested in Formula 1 🏎️ and baking 🍰!
-
-<!-- <details>
-<summary>
-More about me
-</summary>
-
-
-
-</details> -->
+<div style="display: flex; gap: 1em; height: 128px;">
+<img src="https://github-readme-stats.vercel.app/api?username=johnnymayodev&theme=transparent&show_icons=true&hide=stars,contribs" alt="Johnny's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymayodev&theme=transparent&layout=compact" alt="Johnny's Top Languages" />
+</div>
