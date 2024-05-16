@@ -8,7 +8,7 @@ type Me = {
     hobbies: List<String>
 }
 
-fn main() {
+pub fn main() {
     let johnny: Me = {
         name: "Johnny Mayo"
         role: "Computer Science Student"
