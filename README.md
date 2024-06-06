@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ```gleam
-type Me = {
+type Person = {
     name: String
     role: String
     skills: List<String>
@@ -9,11 +9,11 @@ type Me = {
 }
 
 pub fn main() {
-    let johnny: Me = {
+    let johnny: Person = {
         name: "Johnny Mayo"
-        role: "Computer Science Student"
-        skills: ["Python", "HTML", "CSS" "JavaScript", "Docker"]
-        hobbies: ["Coding", "Formula 1", "Video Games"]
+        role: "Computer Science Student at the New Jersey Institute of Technology"
+        skills: ["Python", "HTML", "CSS" "JavaScript", "Svelte", "Docker"]
+        hobbies: ["Pizza", "Formula 1", "Video Games"]
     }
 }
 ```
