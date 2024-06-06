@@ -1,6 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ```gleam
+// lang: gleam -> https://gleam.run/
 type Person = {
     name: String
     role: String
