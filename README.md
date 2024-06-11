@@ -14,7 +14,7 @@ pub fn main() {
         name: "Johnny Mayo"
         role: "Computer Science Student at the New Jersey Institute of Technology"
         skills: ["Python", "HTML", "CSS" "JavaScript", "Svelte", "Docker"]
-        hobbies: ["Pizza", "Formula 1", "Video Games"]
+        hobbies: ["Baking", "Formula 1", "Video Games"]
     }
 }
 ```
