@@ -5,6 +5,7 @@
 type Person = {
     name: String
     role: String
+    degree: String
     skills: List<String>
     hobbies: List<String>
 }
@@ -12,9 +13,10 @@ type Person = {
 pub fn main() {
     let johnny: Person = {
         name: "Johnny Mayo"
-        role: "Computer Science Student at the New Jersey Institute of Technology"
-        skills: ["Python", "HTML", "CSS" "JavaScript", "Svelte", "Docker"]
-        hobbies: ["Baking", "Formula 1", "Video Games"]
+        role: "Software Engineer"
+        degree: "Bachelor's of Computer Science from New Jersey Institute of Technology"
+        skills: ["JavaScript", "Python", "HTML/CSS"]
+        hobbies: ["Go-Karting", "Video Games", "Visiting National Parks"]
     }
 }
 ```
