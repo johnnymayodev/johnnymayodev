@@ -16,7 +16,7 @@ pub fn main() {
         role: "Software Engineer"
         degree: "Bachelor's of Computer Science from New Jersey Institute of Technology"
         skills: ["JavaScript", "Python", "HTML/CSS"]
-        hobbies: ["Go-Karting", "Video Games", "Visiting National Parks"]
+        hobbies: ["Go-Karting", "Video Games", "Hiking at National Parks"]
     }
 }
 ```
