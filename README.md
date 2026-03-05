@@ -5,16 +5,20 @@ type Person = {
   name: string;
   role: string;
   degree: string;
+  school: string;
+  languages: string[];
   skills: string[];
   hobbies: string[];
 };
 
 const johnny: Person = {
   name: "Johnny Mayo",
-  role: "Software Engineer",
-  degree: "Bachelor's of Computer Science from New Jersey Institute of Technology",
-  skills: ["JavaScript", "Python", "HTML/CSS"],
-  hobbies: ["Go-Karting", "Video Games", "Hiking at National Parks"],
+  role: "Full Stack Software Engineer",
+  degree: "Bachelor of Science in Computer Science",
+  school: "New Jersey Institute of Technology",
+  languages: ["TypeScript", "Python", "HTML/CSS", "PHP", "SQL"],
+  skills: ["Full Stack Development", "API Development and Integration", "UI/UX Design Principles", "Cloud Computing (AWS, Oracle, Azure)", "AI Literacy"],
+  hobbies: ["Go-Karting", "Video Games", "Hiking at National Parks", "Off-Roading"],
 };
 ```
 
